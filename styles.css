@@ -1,0 +1,110 @@
+body {
+	font-family: ' Lato ', Sans;
+	background-image: url("https://images.pexels.com/photos/326424/pexels-photo-326424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+li {
+	color: #ffffff;
+}
+
+.nav-item {
+	font-size: 20px !important;
+	font-weight: bold !important;
+}
+
+.navbar-brand:hover {
+	color: #f48f41 !important;
+	cursor: pointer;
+}
+
+.nav-item a:hover {
+            color: #f48f41 !important;
+            cursor: pointer;
+        }
+
+header {
+	margin-top: 4%;
+}
+
+.frontend {
+	color: yellow !important;
+}
+
+
+.mypic {
+	display: block;
+	float: auto;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+	border-style: solid;
+	border-color: #ffffff;
+}
+
+.headtxt p {
+	color: white;
+	font-size: 2em;
+}
+
+section {
+	background-color: #ffffff;
+}
+
+.div-head {
+	color: #ffffff;
+	background-color: #f48f41;
+}
+
+.wel-txt p {
+	color: black;
+}
+
+
+.tool-logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.logo-text {
+	color: black;
+}
+
+.bordereffect:hover {
+	border-style: dashed;
+	border-color: #f48f41;
+}
+
+.port-text {
+	color: black;
+}
+
+.contact-text {
+	color: black;
+}
+
+i {
+	font-size: 100px;
+	color: black;
+}
+
+.contact {
+	color: #f48f41;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.bordereffect-insta:hover {
+	border-style: dashed;
+	border-color: #ffffff;
+
+}
+
+footer {
+	background-color: #f48f41;
+	text-align: center;
+	color: black;
+}
