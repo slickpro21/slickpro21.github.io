@@ -1,0 +1,95 @@
+body {
+	font-family: 'Times New Roman', Verdana, Arial;
+	background: linear-gradient(to top, #3FA7D6, #ffffff, #3FA7D6);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.about-article p {
+	column-count: 3;
+}
+
+.headerlogo {
+	width: 60%;
+}
+.search {
+	text-align: center;
+}
+
+.inven-search {
+	padding: 5px;
+	margin: 10px;
+}
+
+.wel-text {
+	text-align: center;
+}
+
+
+.intro-vid {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.intro-text {
+	column-count: 2;
+	background-color: #ffffff;
+	border-radius: 10px;
+}
+
+#searchbox {
+	background-image: url('https://cdn3.iconfinder.com/data/icons/woothemesiconset/32/search_button.png');
+	background-position: 10px 12px;
+    background-repeat: no-repeat;
+    width: 100%;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+}
+
+#table {
+	background-color: #ffffff;
+	width: 100%
+}
+
+tr:hover {
+	background-color: #3FA7D6;
+}
+
+.tax-calc {
+	background-color: #ffffff;
+	display: block;
+	padding: 5px;
+	margin: 10px;
+
+
+}
+
+label{
+	display:table-row;
+}
+
+label *{
+	display:table-cell;
+}
+
+label span{
+	padding-right:1em;
+}
+
+label input.cash{
+	text-align:right;
+}
+
+footer {
+	text-align: center;
+	font-weight: bold;
+	font-size: 12px;
+}
